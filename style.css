@@ -1,0 +1,11 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 200px;
+  color: black;
+  background-color: blanchedalmond;
+}
